@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Hello Coursera</title>
+<!--Hello Coursera Assignment -->
 </head>
 <body>
 <h1>Hello Coursera!</h1>
